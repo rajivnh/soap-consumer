@@ -1,0 +1,1 @@
+SOAP consumer project for spring boot
